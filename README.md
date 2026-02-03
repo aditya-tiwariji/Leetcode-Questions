@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0402-remove-k-digits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [1143-longest-common-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [1143-longest-common-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
 ## Hash Table
 |  |
