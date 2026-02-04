@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3637-trionic-array-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3637-trionic-array-i) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
+| [0300-longest-increasing-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
 ## Hash Table
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0044-wildcard-matching) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
