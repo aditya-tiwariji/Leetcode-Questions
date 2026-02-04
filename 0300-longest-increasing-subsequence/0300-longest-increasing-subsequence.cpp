@@ -12,11 +12,11 @@ public:
                    for(int prev=-1;prev<i;prev++){
                         int take=INT_MIN;
                         if(prev==-1||nums[i]>nums[prev]){
-                                take=1+dp[i+1][i+1];
+                                take=1+dp[i+1][i+1];// prev here is i
                         }
                         int not_take=dp[i+1][prev+1];
 
-                        dp[i][prev+1]=max(take,not_take);
+                        dp[i][prev+1]=max(take,not_take);//prev+1 beacuse we can't store negative index
                    }
                }
 
