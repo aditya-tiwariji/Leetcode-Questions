@@ -9,12 +9,13 @@ public:
            vector<int>ans(n,0);  
            for(int i=0;i<n;i++)
            {
+              int k=abs(nums[i])%n;
              if(nums[i]>0){
-                  ans[i]=nums[(i+nums[i]%n)%n];
+                  ans[i]=nums[(i+k)%n];
              }
              else if(nums[i]<0){
                    
-                      ans[i]=nums[(i-(abs(nums[i])%n)+n)%n];
+                      ans[i]=nums[(i-k+n)%n];
 
              }
              else{
