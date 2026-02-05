@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0368-largest-divisible-subset) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3379-transformed-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3640-trionic-array-ii) |
 ## Sorting
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0368-largest-divisible-subset) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
