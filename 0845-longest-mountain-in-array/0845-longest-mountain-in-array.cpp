@@ -12,9 +12,10 @@ public:
             if (arr[i] > arr[i - 1]) {
                 dp1[i] = dp1[i - 1] + 1;
             } else {
-                dp1[i] = 1;
+                dp1[i] = 1;// start new subarray
             }
         }
+        
         dp2[n - 1] = 1;
 
         int maxi = 0;
