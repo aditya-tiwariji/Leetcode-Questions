@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3640-trionic-array-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3804-number-of-centered-subarrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3804-number-of-centered-subarrays) |
 ## Sorting
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3804-number-of-centered-subarrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3804-number-of-centered-subarrays) |
 ## Sliding Window
 |  |
@@ -128,8 +130,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
