@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0845-longest-mountain-in-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0845-longest-mountain-in-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0845-longest-mountain-in-array) |
 | [1143-longest-common-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3640-trionic-array-ii) |
 ## Hash Table
