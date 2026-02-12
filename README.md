@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0845-longest-mountain-in-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3804-number-of-centered-subarrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3804-number-of-centered-subarrays) |
 ## String
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [1143-longest-common-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3713-longest-balanced-substring-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3804-number-of-centered-subarrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3804-number-of-centered-subarrays) |
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3721-longest-balanced-subarray-ii) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
