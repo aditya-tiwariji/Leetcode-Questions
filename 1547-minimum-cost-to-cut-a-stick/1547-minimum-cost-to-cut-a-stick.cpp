@@ -1,36 +1,31 @@
 class Solution {
 public:
-    int minCost(int n, vector<int>& cuts) {
+int fun(int i,int j,vector<int>&cuts,vector<vector<int>>&dp){
         
-        cuts.push_back(0);
-        cuts.push_back(n);
-        sort(cuts.begin(), cuts.end());
+        if(i>j)return 0;
+        if(dp[i][j]!=-1)return dp[i][j];
 
-        int m = cuts.size();
+         int mini=1e9;  
+        for(int ind=i;ind<=j;ind++){
+              
+             int  cost=cuts[j+1]-cuts[i-1]+fun(i,ind-1,cuts,dp)+fun(ind+1,j,cuts,dp);
 
-        vector<vector<int>> dp(m, vector<int>(m, 0));
+             mini=min(mini,cost);
+        }     
 
-        // length of interval
-        for(int len = 2; len < m; len++)
-        {
-            for(int i = 0; i + len < m; i++)
-            {
-                int j = i + len;
-                dp[i][j] = 1e9;
+        return dp[i][j]=mini;
 
-                for(int k = i + 1; k < j; k++)
-                {
-                    dp[i][j] = min(dp[i][j],
-                                   cuts[j] - cuts[i]
-                                   + dp[i][k]
-                                   + dp[k][j]);
-                }
 
-                if(dp[i][j] == 1e9)
-                    dp[i][j] = 0;
-            }
-        }
+}
+    int minCost(int n, vector<int>& cuts) {
+            int m=cuts.size();
 
-        return dp[0][m-1];
-    }
+            cuts.push_back(0);
+            cuts.push_back(n);
+
+            sort(cuts.begin(),cuts.end());
+            vector<vector<int>>dp(m+1,vector<int>(m+1,-1));     
+            int ans=fun(1,m,cuts,dp);
+            return ans;
+    } 
 };
