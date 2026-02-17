@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0401-binary-watch](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0494-target-sum) |
 ## Divide and Conquer
 |  |
@@ -186,4 +187,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
