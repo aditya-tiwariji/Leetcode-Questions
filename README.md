@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3804-number-of-centered-subarrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3804-number-of-centered-subarrays) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0067-add-binary) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3379-transformed-array) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Two Pointers
 |  |
 | ------- |
