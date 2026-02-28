@@ -25,13 +25,25 @@ int factorial(int n){
             }
             string req=to_string(ans);
 
-            if(s==req)return true;
-            while(true){
-                   bool f=next_permutation(s.begin(),s.end());
-                   if(!f)return false;
-                   if(s==req)return true;
-                   
-            }
-            return false;
+           if(s.size()!=req.size())return false;
+
+             vector<int>v1(10,0),v2(10,0);
+             for(auto it:s){
+                   v1[it-'0']++;
+             }
+             for(auto it:req){
+                   v2[it-'0']++;
+             }
+
+             for(int i=0;i<10;i++)
+             {
+                  if(v1[i]!=v2[i])return false;
+             }
+
+             return true;
+
+             
+
+
     }
 };
