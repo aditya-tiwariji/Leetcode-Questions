@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0402-remove-k-digits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0696-count-binary-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0696-count-binary-substrings) |
+| [1106-parsing-a-boolean-expression](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0402-remove-k-digits) |
+| [1106-parsing-a-boolean-expression](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1106-parsing-a-boolean-expression) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0044-wildcard-matching) |
+| [1106-parsing-a-boolean-expression](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1106-parsing-a-boolean-expression) |
 ## Binary Search
 |  |
 | ------- |
