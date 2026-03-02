@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0041-first-missing-positive) |
 | [0300-longest-increasing-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0312-burst-balloons) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Math
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3719-longest-balanced-subarray-i) |
