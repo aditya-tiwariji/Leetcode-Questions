@@ -13,7 +13,9 @@ int  fun(int i,vector<int>&arr,int k,int n,vector<int>&dp){
              {
                       len++;
                       max_value=max(max_value,arr[p]);
-                      sum=max_value*len + fun(p+1,arr,k,n,dp);
+
+                      sum= (max_value*len) + fun(p+1,arr,k,n,dp);
+                      
                       max_ans=max(max_ans,sum);  
       
              }
