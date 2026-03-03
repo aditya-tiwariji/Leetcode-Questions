@@ -11,20 +11,22 @@ public:
                 int i=0;
                 int j=0;
 
-                while(i<=j&&j<n){
+                while(i<=j&&j<n){// O(n)
                        
                          
-                         seen.insert(nums[j]);
+                         seen.insert(nums[j]);// log(k)
                           
                           if(seen.size()==k){
                                     int mx=*seen.rbegin();
                                     ans.push_back(mx);
 
-                                    seen.erase(seen.find(nums[i]));
+                                    seen.erase(seen.find(nums[i]));//log(k) for find
                                     i++;  
                           }
                          j++;
                 }
+
+                // total tc--> O(nlog(k))
 
                 return ans;
     }
