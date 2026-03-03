@@ -30,13 +30,15 @@ public:
 
              int last=arr.back();
              int cur_idx=mpp[val];
+             
+             arr.back()=val;
+
+             arr[cur_idx]=last;
+             mpp[last]=cur_idx;
+             
+             arr.pop_back(); 
              mpp.erase(val);
 
-             arr.back()=val;
-             arr[cur_idx]=last;
-
-             mpp[last]=cur_idx;
-             arr.pop_back(); 
 
              return true;  
              
