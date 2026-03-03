@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0901-online-stock-span) |
 | [1106-parsing-a-boolean-expression](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1106-parsing-a-boolean-expression) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Greedy
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0901-online-stock-span) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -235,4 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
