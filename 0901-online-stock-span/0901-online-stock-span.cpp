@@ -2,11 +2,12 @@ class StockSpanner {
 public:
      
      stack<pair<int,int>>st;
-     int  ind=-1;
+     int  ind;
 
     StockSpanner() {
             
-            
+           ind=-1;
+
            
     }
     
