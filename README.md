@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0494-target-sum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0041-first-missing-positive) |
+| [0380-insert-delete-getrandom-o1](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3714-longest-balanced-substring-ii) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0357-count-numbers-with-unique-digits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3848-check-digitorial-permutation](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3848-check-digitorial-permutation) |
 ## Simulation
@@ -240,9 +243,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0901-online-stock-span) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
