@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0402-remove-k-digits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0696-count-binary-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0696-count-binary-substrings) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0696-count-binary-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0845-longest-mountain-in-array) |
