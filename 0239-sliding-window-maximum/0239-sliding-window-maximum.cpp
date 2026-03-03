@@ -4,7 +4,7 @@ public:
              
                 int n=nums.size();
 
-                multiset<int>seen;
+                multiset<int>ms;
 
                 vector<int>ans;
 
@@ -14,13 +14,13 @@ public:
                 while(i<=j&&j<n){// O(n)
                        
                          
-                         seen.insert(nums[j]);// log(k)
+                         ms.insert(nums[j]);// log(k)
                           
-                          if(seen.size()==k){
-                                    int mx=*seen.rbegin();
+                          if(ms.size()==k){
+                                    int mx=*ms.rbegin();
                                     ans.push_back(mx);
 
-                                    seen.erase(seen.find(nums[i]));//log(k) for find
+                                    ms.erase(ms.find(nums[i]));//log(k) for find
                                     i++;  
                           }
                          j++;
