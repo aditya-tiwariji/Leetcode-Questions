@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0041-first-missing-positive) |
+| [0057-insert-interval](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0057-insert-interval) |
 | [0239-sliding-window-maximum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0312-burst-balloons) |
