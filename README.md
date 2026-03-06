@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0402-remove-k-digits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0696-count-binary-substrings) |
 | [1106-parsing-a-boolean-expression](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0901-online-stock-span) |
 | [1106-parsing-a-boolean-expression](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1106-parsing-a-boolean-expression) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0044-wildcard-matching) |
 | [0402-remove-k-digits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0494-target-sum) |
+| [0678-valid-parenthesis-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0799-champagne-tower](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0799-champagne-tower) |
 | [0845-longest-mountain-in-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0845-longest-mountain-in-array) |
 | [1043-partition-array-for-maximum-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1043-partition-array-for-maximum-sum) |
