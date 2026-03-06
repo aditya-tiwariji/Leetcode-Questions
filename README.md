@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0494-target-sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0845-longest-mountain-in-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0845-longest-mountain-in-array) |
 | [1043-partition-array-for-maximum-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0494-target-sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0799-champagne-tower](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0799-champagne-tower) |
 | [0845-longest-mountain-in-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0845-longest-mountain-in-array) |
