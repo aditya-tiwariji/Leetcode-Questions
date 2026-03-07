@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0041-first-missing-positive) |
 | [0146-lru-cache](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0460-lfu-cache) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
+| [0355-design-twitter](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0355-design-twitter) |
 | [1094-car-pooling](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1094-car-pooling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0901-online-stock-span) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
