@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0041-first-missing-positive) |
 | [0146-lru-cache](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0355-design-twitter](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0460-lfu-cache) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0696-count-binary-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0845-longest-mountain-in-array) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0355-design-twitter](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
