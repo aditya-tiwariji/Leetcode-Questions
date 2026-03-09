@@ -39,5 +39,7 @@ public:
         }
 
         return dummy->next;
+
+        // tc-> k*logk+ n*k*logk
     }
 };
