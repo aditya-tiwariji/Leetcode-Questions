@@ -20,7 +20,7 @@ public:
         for (int i = 0; i < n; i++) {
             ListNode*Head = lists[i];
             if(!Head)continue;
-            pq.push({Head->val, Head});
+            pq.push({Head->val, Head});// logk
         }
 
         ListNode* dummy = new ListNode(-1);
@@ -41,5 +41,6 @@ public:
         return dummy->next;
 
         // tc-> k*logk+ n*k*logk
+        // sx->O(k)
     }
 };
