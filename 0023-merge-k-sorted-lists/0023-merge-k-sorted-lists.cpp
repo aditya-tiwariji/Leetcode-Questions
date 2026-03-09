@@ -11,57 +11,33 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-           
-           if(lists.size()==0)return 0;
-    
-        ListNode* head=lists[0];
-        
-       
 
-        for (int i = 1; i < lists.size(); i++) {
-            ListNode*temp1=head;
-            ListNode* temp2 = lists[i];
-            
-            if(!temp1) {
-                head = temp2;
-                continue;
-            }
+        int n = lists.size();
 
-            if(!temp2) continue;
+        priority_queue<pair<int, ListNode*>,vector<pair<int, ListNode*>>,
+            greater<pair<int, ListNode*>>>pq;
 
-            if (temp1->val <=temp2->val) {
-                head = temp1;
-                temp1 = temp1->next;
-            } else {
-                head = temp2;
-                temp2 = temp2->next;
-            }
-             ListNode*low=head;
-
-            while (temp1 != NULL && temp2 != NULL) {
-
-                if (temp1->val < temp2->val) {
-                    low->next= temp1;
-                    temp1 = temp1->next;
-                    low=low->next;
-                    
-                } else {
-                    low->next=temp2;
-                    temp2 = temp2->next;
-                    low=low->next;
-                }
-            }
-
-            if(!temp1){
-                   low->next=temp2;
-            }
-            else low->next=temp1;
-
-            temp1=head;
-
+        for (int i = 0; i < n; i++) {
+            ListNode*Head = lists[i];
+            if(!Head)continue;
+            pq.push({Head->val, Head});
         }
 
-        return head;
+        ListNode* dummy = new ListNode(-1);
+        ListNode* temp = dummy;
 
+        while (!pq.empty()) {
+            ListNode*cur = pq.top().second;
+            pq.pop();
+
+            temp->next = cur;
+
+            if (cur->next != NULL) {
+                pq.push({cur->next->val, cur->next});
+            }
+            temp = temp->next;
+        }
+
+        return dummy->next;
     }
 };
