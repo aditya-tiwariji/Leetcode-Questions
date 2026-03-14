@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [1106-parsing-a-boolean-expression](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0494-target-sum) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1980-find-unique-binary-string) |
 ## Divide and Conquer
 |  |
