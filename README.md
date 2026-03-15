@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0821-shortest-distance-to-a-character) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0424-longest-repeating-character-replacement](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0460-lfu-cache) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1980-find-unique-binary-string) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Heap (Priority Queue)
 |  |
