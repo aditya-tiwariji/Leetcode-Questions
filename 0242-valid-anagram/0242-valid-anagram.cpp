@@ -2,9 +2,11 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
         
-           sort(s.begin(),s.end());
-           sort(t.begin(),t.end());
+           vector<int>v(26,0);
+           for(auto it:s)v[it-'a']++;
+           for(auto it:t)v[it-'a']--;
 
-           return s==t;
+           for(auto it:v)if(it!=0)return false;
+           return true;
     }
 };
