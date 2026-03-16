@@ -18,14 +18,15 @@ ListNode*fun(ListNode*node){
             return node;
           }
 
-          fun(node->next);
+          ListNode*newHead=fun(node->next);
 
           ListNode*temp1=node;
           ListNode*temp2=node->next;
 
           temp2->next=temp1;
           temp1->next=nullptr;
-          return temp1;
+
+          return newHead;
 
 }
     ListNode* reverseList(ListNode* head) {
@@ -34,6 +35,6 @@ ListNode*fun(ListNode*node){
            ListNode*ans=fun(head);
            
 
-           return newHead;
+           return ans;
     }
 };
