@@ -8,16 +8,12 @@ public:
 
                 priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
                 
-                for(auto it:mpp)
+                for(auto it:mpp)// O(n)
                 {
                       pq.push({it.second,it.first});// O(logn)
+                      if(pq.size()>k)pq.pop();// store only k most freq. elemnt
                 }
-                int n=mpp.size();
-                int x=n-k;
-                while(!pq.empty()&&x>0){
-                        pq.pop();// O(logn)
-                        x--;
-                }
+               
                 vector<int>ans;
                 while(!pq.empty())
                 {   
@@ -27,6 +23,6 @@ public:
 
                 return ans;
 
-                //overall tc-->O(logn)
+                //overall tc-->O(n*logn)
     }
 };
