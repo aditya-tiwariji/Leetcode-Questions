@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0312-burst-balloons) |
+| [0347-top-k-frequent-elements](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1094-car-pooling](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1094-car-pooling) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -308,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3848-check-digitorial-permutation](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3848-check-digitorial-permutation) |
@@ -389,4 +395,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1757-recyclable-and-low-fat-products) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
