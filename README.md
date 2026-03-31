@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3714-longest-balanced-substring-ii) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Monotonic Stack
 |  |
@@ -467,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
