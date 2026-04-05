@@ -3,7 +3,7 @@ public:
     int mirrorFrequency(string s) {
            int n=s.size();
 
-           unordered_set<char>seen(s.begin(),s.end());
+          
            unordered_map<char,int>mpp;
 
            for(int i=0;i<n;i++)
