@@ -3,8 +3,7 @@ SELECT d.name AS Department ,e.name AS Employee,e.salary AS  Salary
 FROM Employee e LEFT JOIN Department d
 ON e.departmentId=d.id
 WHERE  e.salary IN(
-       SELECT MAX(salary) FROM Employee
+       SELECT MAX(salary) FROM Employee 
       GROUP BY departmentId 
-      HAVING departmentId =e.departmentId
-        
+      HAVING departmentId =e.departmentId   
 )
