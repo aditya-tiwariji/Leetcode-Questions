@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1094-car-pooling) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2751-robot-collisions](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3379-transformed-array) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0901-online-stock-span) |
+| [2069-walking-robot-simulation-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2069-walking-robot-simulation-ii) |
 ## Data Stream
 |  |
 | ------- |
