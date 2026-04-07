@@ -2,7 +2,7 @@ class Robot {
 public:
     
     char cur='E';
-    unordered_map<char,char>AC;
+    map<char,char>AC;
     int x=0;
     int y=0;
     int mx=0;
@@ -21,7 +21,7 @@ public:
     
     void step(int num) {
            
-                int perimeter = 2 * (mx + my - 2);
+                int perimeter=2*(mx+my-2);
     
                 int k=num%perimeter;
                 if (k==0)k=perimeter;
