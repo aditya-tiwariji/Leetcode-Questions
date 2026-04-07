@@ -21,10 +21,10 @@ public:
     
     void step(int num) {
            
-                int perimeter=2*(mx+my-2);
+                int p=2*(mx+my-2);
     
-                int k=num%perimeter;
-                if (k==0)k=perimeter;
+                int k=num%p;
+                if (k==0)k=p;
 
              while(k>0){
                 
