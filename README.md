@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3804-number-of-centered-subarrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3804-number-of-centered-subarrays) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3379-transformed-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Two Pointers
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search Tree
