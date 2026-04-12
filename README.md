@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [1106-parsing-a-boolean-expression](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1043-partition-array-for-maximum-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
