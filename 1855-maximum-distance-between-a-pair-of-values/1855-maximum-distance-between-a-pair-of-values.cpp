@@ -10,22 +10,13 @@ public:
             for(int i=0;i<n;i++)
             {
                 auto it=lower_bound(temp.begin(),temp.end(),nums1[i]);
-                if(it==temp.end()){
-                        if(temp[m-1]==nums1[i]){
-                                if(m-1-i>=0){
-                                   maxi=max(maxi,m-1-i);
-                                }
-                        }      
-                }
-                else{
-                    int ind=it-temp.begin();
-                    // return ind;
+                if(it!=temp.end()){
+                       int ind=it-temp.begin();
+                       int org=m-1-ind;
 
-                    int org=m-1-ind;
-                 
-                    if(i<=org){
-                       maxi=max(maxi,org-i);
-                    }
+                       if(i<=org){
+                             maxi=max(maxi,org-i);
+                       }
                 }
             }
             return maxi;
