@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1980-find-unique-binary-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3488-closest-equal-element-queries) |
 ## Math
 |  |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0845-longest-mountain-in-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0845-longest-mountain-in-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Tree
