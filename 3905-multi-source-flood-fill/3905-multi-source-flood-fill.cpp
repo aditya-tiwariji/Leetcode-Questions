@@ -27,7 +27,7 @@ public:
             int time = q.front().first.second;
             q.pop();
 
-            if(time > tm[r][c]) continue;
+           
 
             for(auto it:dir){
                 int newr = r + it[0];
