@@ -37,7 +37,7 @@ public:
                 {
                     int newTime = time + 1;
 
-                    if(newTime < tm[newr][newc]){
+                    if( tm[newr][newc]==INT_MAX){
                         tm[newr][newc] = newTime;
                         grid[newr][newc] = val;
                         q.push({{val,newTime},{newr,newc}});
