@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3804-number-of-centered-subarrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3804-number-of-centered-subarrays) |
 | [3840-house-robber-v](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3840-house-robber-v) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3903-smallest-stable-index-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
 |  |
