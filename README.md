@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0357-count-numbers-with-unique-digits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0368-largest-divisible-subset) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
