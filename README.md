@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
