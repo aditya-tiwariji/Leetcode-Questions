@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1043-partition-array-for-maximum-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1094-car-pooling](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1094-car-pooling) |
+| [1345-jump-game-iv](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1345-jump-game-iv) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0460-lfu-cache) |
 | [0874-walking-robot-simulation](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1345-jump-game-iv) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1980-find-unique-binary-string) |
 | [2121-intervals-between-identical-elements](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2121-intervals-between-identical-elements) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
+| [1345-jump-game-iv](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1345-jump-game-iv) |
 | [3905-multi-source-flood-fill](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3905-multi-source-flood-fill) |
 ## String Matching
 |  |
