@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
