@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0110-balanced-binary-tree) |
+| [0133-clone-graph](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [1345-jump-game-iv](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1345-jump-game-iv) |
 | [3905-multi-source-flood-fill](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3905-multi-source-flood-fill) |
@@ -576,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
