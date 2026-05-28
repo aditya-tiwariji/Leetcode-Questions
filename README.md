@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3488-closest-equal-element-queries) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Math
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3848-check-digitorial-permutation](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3848-check-digitorial-permutation) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Simulation
 |  |
 | ------- |
