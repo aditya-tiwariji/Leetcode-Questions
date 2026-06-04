@@ -8,7 +8,7 @@ public:
              int n=heights.size();
              int m=heights[0].size();
 
-            vector<vector<int>>dist(n,vector<int>(m,1e9));
+            vector<vector<int>>minEff(n,vector<int>(m,1e9));
 
            priority_queue<piii, vector<piii>, greater<piii>>pq;
 
@@ -27,8 +27,8 @@ public:
 
                       if(ni>=0&&ni<n&&nj>=0&&nj<m){
                            int eff=max(effort,abs(heights[ni][nj]-heights[i][j]));
-                           if(eff<dist[ni][nj]){
-                                dist[ni][nj]=eff;
+                           if(eff<minEff[ni][nj]){
+                                minEff[ni][nj]=eff;
                                  pq.push({eff,{ni,nj}});
                            }
                           
@@ -36,6 +36,6 @@ public:
                    }
            }
 
-           return (dist[n-1][m-1]!=1e9)?dist[n-1][m-1]:0;
+           return (minEff[n-1][m-1]!=1e9)?minEff[n-1][m-1]:0;
     }
 };
