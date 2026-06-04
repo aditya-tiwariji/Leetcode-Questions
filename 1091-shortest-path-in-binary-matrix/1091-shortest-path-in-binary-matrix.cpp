@@ -5,6 +5,7 @@ public:
                int n=grid.size();
                int m=grid[0].size();
                if(grid[0][0]==1)return -1;
+
                queue<pair<int,pair<int,int>>>q;
                q.push({1,{0,0}});
 
@@ -37,6 +38,8 @@ public:
                      }
                }
                return -1;
+
+               //tc=O(V+E)
 
                
     }
