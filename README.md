@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1094-car-pooling](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1094-car-pooling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Recursion
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3488-closest-equal-element-queries) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 | [1382-balance-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -589,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -600,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1345-jump-game-iv](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1345-jump-game-iv) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [3905-multi-source-flood-fill](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3905-multi-source-flood-fill) |
 ## String Matching
 |  |
