@@ -36,6 +36,7 @@ public:
                    }
            }
 
-           return (minEff[n-1][m-1]!=1e9)?minEff[n-1][m-1]:0;
+           return (minEff[n-1][m-1]!=1e9)?minEff[n-1][m-1]:0; // tc =O(Elogv) E=4*m*n and V=m*n
+                                                              // sc=O(v) 
     }
 };
