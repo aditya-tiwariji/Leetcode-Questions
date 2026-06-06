@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1340-jump-game-v) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3640-trionic-array-ii) |
 | [3660-jump-game-ix](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3660-jump-game-ix) |
@@ -640,14 +641,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0210-course-schedule-ii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
