@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0799-champagne-tower) |
 | [0845-longest-mountain-in-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0845-longest-mountain-in-array) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1094-car-pooling](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1094-car-pooling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1631-path-with-minimum-effort](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1382-balance-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1345-jump-game-iv](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1345-jump-game-iv) |
 | [1631-path-with-minimum-effort](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
@@ -631,9 +635,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
