@@ -17,28 +17,18 @@ bool isprime(ll n){
                  ll n=s.size();
                  set<int>seen;
                 priority_queue<ll>pq; 
-                 for(ll i=0;i<n;i++)
+                 for(ll i=0;i<n;i++)//O(n)
                  {
-                        for(ll j=0;j<=i;j++){
-                                  
-                                   string sub=s.substr(j,i-j+1);//{start,length}
+                       ll num=0;
+                        for(ll j=i;j<n;j++){//O(n)
+                                
+                                num=num*10+s[j]-'0';
 
-                                   ll k=0;
-                                   ll len=sub.size();
-                                   while(k<len&&sub[k]=='0'){
-                                          k++;
-                                   }
+                                if(isprime(num)&&!seen.count(num)){
+                                       pq.push(num);
+                                       seen.insert(num);
+                                }
 
-                                   sub=sub.substr(k,len-k);
-                                   if(sub.empty())continue;  
-                                   ll x=stoll(sub);
-
-                                    if(isprime(x)&&!seen.count(x)){
-                                            
-                                          pq.push(x);
-                                          seen.insert(x);
-    
-                                    } 
                         }
                  }
 
@@ -50,5 +40,6 @@ bool isprime(ll n){
                  }
 
                  return sum;
+                 // tc
     }
 };
