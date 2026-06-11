@@ -1,6 +1,21 @@
 class Solution {
 public:
-const int mod=1e9+7;
+long long  mod=1e9+7;
+long long power(long long a, long long b, long long mod) {
+    long long res = 1;
+
+    while (b) {
+        if (b & 1)
+            res = (res * a) % mod;
+
+        a = (a * a) % mod;
+        b >>= 1;
+    }
+
+    return res;
+}
+
+// find ways using dp
   int fun(int i,int maxi,int parity,vector<vector<int>>&dp){
         
             if(i>maxi){
@@ -54,9 +69,12 @@ const int mod=1e9+7;
                                }
                        }
                  }
-                vector<vector<int>>dp(n+1,vector<int>(2,-1));
-               int ans=fun(1,maxi,0,dp);
-               return ans;
+            //     vector<vector<int>>dp(n+1,vector<int>(2,-1));
+            //    int ans=fun(1,maxi,0,dp);
+            //    return ans;
+
+           int  cnt=power(2,maxi-1,mod);
+            return cnt;
 
 
 
