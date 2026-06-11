@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3714-longest-balanced-substring-ii) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Monotonic Stack
 |  |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3640-trionic-array-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3640-trionic-array-ii) |
 | [3660-jump-game-ix](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3488-closest-equal-element-queries) |
+| [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3719-longest-balanced-subarray-i) |
