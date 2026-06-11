@@ -12,7 +12,7 @@ public:
             }
             else if (i - mpp[word[i]] + 1 >= 4) {
                 cnt++;
-                mpp.clear();          // start a new segment
+                mpp.clear();         
             }
         }
 
