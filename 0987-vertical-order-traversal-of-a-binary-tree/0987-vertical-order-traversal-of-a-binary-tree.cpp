@@ -46,7 +46,7 @@ public:
 
                                for(auto r:it.second){//row 
                                      
-                                       for(auto x:r.second){
+                                       for(auto x:r.second){// multiset
                                                 temp.push_back(x);
                                        }
 
