@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3804-number-of-centered-subarrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3804-number-of-centered-subarrays) |
+| [3838-weighted-word-mapping](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3838-weighted-word-mapping) |
 | [3840-house-robber-v](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3840-house-robber-v) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3903-smallest-stable-index-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3714-longest-balanced-substring-ii) |
+| [3838-weighted-word-mapping](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3838-weighted-word-mapping) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3926-count-valid-word-occurrences](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3926-count-valid-word-occurrences) |
 ## Stack
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3838-weighted-word-mapping) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Two Pointers
 |  |
