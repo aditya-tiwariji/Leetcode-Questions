@@ -12,27 +12,36 @@
 class Solution {
 public:
     int widthOfBinaryTree(TreeNode* root) {
-                   
-                      queue<pair<TreeNode*,int>>q;
-                      q.push({root,0});
-                      int maxi=0;
-                      while(!q.empty()){
-                            int n=q.size();
+             
+                queue<pair<TreeNode*,int>>q;//{node,index}
+                q.push({root,0});
 
-                             int startidx=q.front().second;
-                             int endidx=q.back().second;
-                             maxi=max(maxi,(endidx-startidx)+1);
+                int maxi=0;
+                while(!q.empty()){
+                      
+                          int n=q.size();
 
-                            for(int i=0;i<n;i++)
-                            {
-                                    TreeNode*node=q.front().first;
-                                    int idx=q.front().second;
-                                    q.pop();
+                          int startidx=q.front().second;
+                          int endidx=q.back().second;
 
-                                    if(node->left)q.push({node->left,(long long)2*idx+1});
-                                    if(node->right)q.push({node->right,(long long )2*idx+2});
-                            }
-                      }
-                      return maxi;
+                          maxi=max(maxi,endidx-startidx+1);
+
+
+                          for(int i=0;i<n;i++)
+                          {
+                               TreeNode*node=q.front().first;
+                               int idx=q.front().second;
+                               q.pop();//O(1)
+
+                               if(node->left)q.push({node->left,(long long)2*idx+1});//O(1)
+                               if(node->right)q.push({node->right,(long long)2*idx+2});
+                          }
+                }
+
+                // tc -->O(n)
+               // sc-->O(n/2)---O(n)
+                 
+                return maxi;
+
     }
 };
