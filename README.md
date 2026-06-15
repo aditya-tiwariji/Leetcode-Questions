@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0845-longest-mountain-in-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2540-minimum-common-value) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0460-lfu-cache) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
 |  |
