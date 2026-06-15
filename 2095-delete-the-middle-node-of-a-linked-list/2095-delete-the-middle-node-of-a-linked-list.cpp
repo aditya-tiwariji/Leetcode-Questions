@@ -21,7 +21,7 @@ public:
                    prev=slow;
                    slow=slow->next;
                 }
-                if(slow==head)return head->next;
+                if(slow==head)return head->next;// edge cases if single element is present
               prev->next=slow->next;
               slow->next=nullptr;
 
