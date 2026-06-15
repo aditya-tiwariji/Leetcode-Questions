@@ -15,7 +15,7 @@ public:
                    if(!root)return {};
                   vector<vector<int>>ans;
 
-                  stack<vector<int>>st;
+                //   stack<vector<int>>st;
 
                   queue<TreeNode*>q;
                   q.push(root);
@@ -34,14 +34,16 @@ public:
                                if(node->right)q.push(node->right);
 
                           }
-                          st.push(temp);
+                          ans.push_back(temp);
 
                   }
 
-                  while(!st.empty()){
-                         ans.push_back(st.top());
-                         st.pop();
-                  }
+                //   while(!st.empty()){
+                //          ans.push_back(st.top());
+                //          st.pop();
+                //   }
+
+                reverse(ans.begin(),ans.end());
                   return ans;
                    
     }
