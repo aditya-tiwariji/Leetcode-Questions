@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0075-sort-colors) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0190-reverse-bits) |
 | [0307-range-sum-query-mutable](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
