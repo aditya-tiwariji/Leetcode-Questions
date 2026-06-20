@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0845-longest-mountain-in-array) |
 | [0874-walking-robot-simulation](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0874-walking-robot-simulation) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1043-partition-array-for-maximum-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1106-parsing-a-boolean-expression](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1106-parsing-a-boolean-expression) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0901-online-stock-span](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2236-root-equals-sum-of-children) |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2236-root-equals-sum-of-children) |
@@ -562,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |
