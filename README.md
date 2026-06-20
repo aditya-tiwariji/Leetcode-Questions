@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2574-left-and-right-sum-differences) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2540-minimum-common-value](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3932-count-k-th-roots-in-a-range) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2236-root-equals-sum-of-children) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1382-balance-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
@@ -542,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2236-root-equals-sum-of-children) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -577,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Segment Tree
 |  |
 | ------- |
