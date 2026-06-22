@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1106-parsing-a-boolean-expression](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0874-walking-robot-simulation](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0874-walking-robot-simulation) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1189-maximum-number-of-balloons](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1345-jump-game-iv) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1980-find-unique-binary-string) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [1189-maximum-number-of-balloons](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3713-longest-balanced-substring-i) |
