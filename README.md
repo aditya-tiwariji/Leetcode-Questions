@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1980-find-unique-binary-string) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2833-furthest-point-from-origin) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1980-find-unique-binary-string) |
 | [2121-intervals-between-identical-elements](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2121-intervals-between-identical-elements) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2540-minimum-common-value](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2833-furthest-point-from-origin](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3848-check-digitorial-permutation](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3848-check-digitorial-permutation) |
