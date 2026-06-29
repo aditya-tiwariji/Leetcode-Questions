@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2121-intervals-between-identical-elements](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2121-intervals-between-identical-elements) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1980-find-unique-binary-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
