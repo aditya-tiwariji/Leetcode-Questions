@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1980-find-unique-binary-string) |
 | [2121-intervals-between-identical-elements](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2121-intervals-between-identical-elements) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Heap (Priority Queue)
