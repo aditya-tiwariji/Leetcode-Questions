@@ -6,14 +6,14 @@ public:
                int m=grid.size();
                int n=grid[0].size();
 
-                    queue<pair<pair<int,int>,pair<int,int>>>q;//{k,row,col}
+                    queue<pair<pair<int,int>,pair<int,int>>>q;//{{k,min_dist},{row,col}}
                     vector<vector<int>>best(m,vector<int>(n,-1));
 
                     int nk=k;
                     if(grid[0][0]==1)nk--;
                     best[0][0]=nk;
                     q.push({{nk,0},{0,0}});
-                    int mini=INT_MAX;
+                   
 
                     while(!q.empty()){
                            int r=q.front().second.first;
@@ -46,6 +46,6 @@ public:
 
                        }
 
-                       return (mini==INT_MAX)?-1:mini;
+                       return -1;
     }
 };
