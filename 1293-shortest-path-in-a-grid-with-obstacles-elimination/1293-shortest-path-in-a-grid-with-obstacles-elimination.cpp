@@ -23,7 +23,7 @@ public:
                            q.pop();
 
                            if(r==m-1&&c==n-1){
-                              mini=min(mini,d);
+                               return d;
                            }
 
                            for(auto it:dir){
