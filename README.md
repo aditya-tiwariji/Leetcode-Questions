@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1094-car-pooling) |
+| [1288-remove-covered-intervals](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1340-jump-game-v](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1345-jump-game-iv) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1094-car-pooling) |
+| [1288-remove-covered-intervals](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1340-jump-game-v) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
