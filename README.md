@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3556-sum-of-largest-prime-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3848-check-digitorial-permutation](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3848-check-digitorial-permutation) |
