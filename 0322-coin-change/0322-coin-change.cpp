@@ -4,7 +4,7 @@ int fun(int i,vector<int>&coins,int amount,vector<vector<int>>&dp){
        
        if(i==coins.size()){
              if(amount==0)return 0;
-             return INT_MAX;
+             return 1e9;
        }
 
        if(dp[i][amount]!=-1)return dp[i][amount];
@@ -14,8 +14,8 @@ int fun(int i,vector<int>&coins,int amount,vector<vector<int>>&dp){
            long long take=INT_MAX; 
            if(coins[i]<=amount){
                   int v=fun(i,coins,amount-coins[i],dp);
-                  if(v==INT_MAX)take=INT_MAX;
-                  else  take=1+v;
+                //   if(v==INT_MAX)take=INT_MAX;
+                  take=1+v;
            }
 
 
@@ -33,6 +33,6 @@ int fun(int i,vector<int>&coins,int amount,vector<vector<int>>&dp){
               vector<vector<int>>dp(n,vector<int>(amount+1,-1));
              int ans=fun(0,coins,amount,dp);
 
-             return (ans==INT_MAX)?-1:ans;
+             return (ans==1e9)?-1:ans;
     }
 };
