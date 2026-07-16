@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3838-weighted-word-mapping) |
 | [3840-house-robber-v](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3840-house-robber-v) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3905-multi-source-flood-fill) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3848-check-digitorial-permutation](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3848-check-digitorial-permutation) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Simulation
 |  |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3838-weighted-word-mapping) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -907,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
