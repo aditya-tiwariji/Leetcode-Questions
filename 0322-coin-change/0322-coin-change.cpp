@@ -34,5 +34,8 @@ int fun(int i,vector<int>&coins,int amount,vector<vector<int>>&dp){
              int ans=fun(0,coins,amount,dp);
 
              return (ans==1e9)?-1:ans;
+
+             // tc ->>O(n*A)
+             //sc-->>O(n*A)
     }
 };
