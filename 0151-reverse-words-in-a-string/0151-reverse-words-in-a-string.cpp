@@ -12,21 +12,28 @@ public:
                          i--;
                    }
                    
-                   string p="";
+                   if(i<0)break;
                    
-                   while(i>=0&&s[i]!=' '){
-                          p=s[i]+p;
-                          i--;
+                   int j=i;
+                   while(j>=0&&s[j]!=' '){
+                          
+                          j--;
                    }
-                   if(p=="")break;
                    
-                   ans+=p+' ';
+                   ans+=s.substr(j+1,i-j)+' ';
+                   i=j;
+                   
+                  
                    
                   
            }
            
+             if(!ans.empty())
             ans.pop_back();
             
             return ans;
+
+            // tc-->O(n)
+            //sc-->O(n);
     }
 };
