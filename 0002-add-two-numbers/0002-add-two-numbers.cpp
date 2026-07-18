@@ -11,87 +11,45 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-          ListNode*temp1=l1;
-          ListNode*temp2=l2;
 
-           int carry=0;
-           int sum=temp1->val+temp2->val+carry;
-           int value=sum%10;
+        int carry = 0;
+
+        ListNode*start=new ListNode(-1);
+        ListNode*cur=start;
+        while (l1 && l2) {
+            int sum = l1->val + l2->val+carry;
+            int rem= sum % 10;
             carry=sum/10;
-
-          ListNode*head=new ListNode(value);
-          temp1=temp1->next;
-          temp2=temp2->next;
-          
-          ListNode*prev=head;
-          while(temp1!=NULL&&temp2!=NULL){
-                 
-                sum=temp1->val+temp2->val+carry;
-
-                  value=sum%10;
-                  carry=sum/10;
-
-                  ListNode*newNode=new ListNode(value);
-
-                  prev->next=newNode;
-                  prev=newNode;
-                  temp1=temp1->next;
-                  temp2=temp2->next;
-                  
-
-          }
-        
-          if(temp1==NULL&&temp2!=NULL){
-                
-                while(temp2!=NULL){
-                 sum=temp2->val+0+carry;
-
-                 value=sum%10;
-                 carry=sum/10;
-
-                 ListNode*newNode=new ListNode(value);
-                 prev->next=newNode;
-                 prev=newNode;
-
-                 temp2=temp2->next;
-            }
-
-            if(carry!=0){
-                 ListNode*newNode=new ListNode(carry);
-                 prev->next=newNode;
-                 prev=newNode;
-            }
-        }
-        
-        else if(temp2==NULL&&temp1!=NULL){
-                
-                while(temp1!=NULL){
-                 sum=temp1->val+0+carry;
-
-                 value=sum%10;
-                 carry=sum/10;
-
-                 ListNode*newNode=new ListNode(value);
-                 prev->next=newNode;
-                 prev=newNode;
-
-                 temp1=temp1->next;
-            }
-
-            if(carry!=0){
-                 ListNode*newNode=new ListNode(carry);
-                 prev->next=newNode;
-                 prev=newNode;
-            }
-        }
-        else {
-                if(carry!=0){
-                 ListNode*newNode=new ListNode(carry);
-                 prev->next=newNode;
-                 prev=newNode;
-            }
+            cur->next=new ListNode(rem);
+            cur=cur->next;
+            l1=l1->next;
+            l2=l2->next;
+            
         }
 
-          return head;
+        while(l1){
+              int sum=l1->val+carry;
+              int rem=sum%10;
+              carry=sum/10;
+              cur->next=new ListNode(rem);
+              cur=cur->next;
+              l1=l1->next;
+
+        }
+
+        while(l2){
+              int sum=l2->val+carry;
+              int rem=sum%10;
+              carry=sum/10;
+              cur->next=new ListNode(rem);
+              cur=cur->next;
+              l2=l2->next;
+        }
+
+         if(carry!=0){
+              cur->next=new ListNode(carry);
+         } 
+
+         return start->next;
     }
 };
