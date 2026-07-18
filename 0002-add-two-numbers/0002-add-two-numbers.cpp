@@ -51,5 +51,8 @@ public:
          } 
 
          return start->next;
+
+        //  tc-->O(max(no of nodes in each LL));
+        //  sc-->O(max(no of node in each LL));
     }
 };
