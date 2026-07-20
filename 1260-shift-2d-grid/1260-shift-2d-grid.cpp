@@ -11,8 +11,8 @@ public:
                   for(int j=0;j<n;j++)
                   {
                       
-                      int nr = (i + (j + k) / n) % m;
-                      int nc = (j + k) % n;
+                      int nr=(i+(j+k)/n)%m;
+                      int nc=(j+k)%n;
 
 
                       v[nr][nc]=grid[i][j];
