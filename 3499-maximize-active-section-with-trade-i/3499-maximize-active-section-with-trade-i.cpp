@@ -42,15 +42,7 @@ public:
                          }
 
                          if(cntzl>0&&cntzr>0&&cnt1>0){
-                            //   if(cntzl+cntzr+cnt1>ans){
-                            //         ans=cntzl+cntzr+cnt1;
-                            //         k=cnt1;
-                            //   }
-                            //   else if(cntzl+cntzr+cnt1==ans){
-                            //           ans=cntzl+cntzr+cnt1;
-                            //           k=min(k,cnt1);
-                            //   }
-
+                        
                             int sum=cntzr+cnt1+cntzl+one-cnt1;
                               ans=max(ans,sum);
                               cntzl=cntzr;
@@ -66,5 +58,8 @@ public:
 
              
               return max(ans,one);
+
+             // tc==O(n)
+             // sc==O(1)
     }
 };
