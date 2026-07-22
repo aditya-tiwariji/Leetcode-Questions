@@ -1,7 +1,7 @@
 class Solution {
 public:
 vector<string>v;
-  unordered_map<char,int>cpp;
+  
   unordered_map<int,string>mpp;
 
 void fun(int i,string digits,string temp,int n){
@@ -34,7 +34,7 @@ void fun(int i,string digits,string temp,int n){
                        char c=ch;
                        while(v<=3){
                           s+=c;
-                          cpp[c]=k;
+                       
                           if(v==3)break;
                            v++;
                           c++;
@@ -47,18 +47,9 @@ void fun(int i,string digits,string temp,int n){
 
               }
 
-            //   for(auto it:mpp){
-            //        v.push_back(it.second);
-            //   }
-
-            //   return v;
-
+           
               int n=digits.size();
-            //   string s="";
-            //   for(auto it:digits){
-            //           int x=it-'0';
-            //           s+=mpp[x];
-            //   }
+           
 
               fun(0,digits,"",n);
 
