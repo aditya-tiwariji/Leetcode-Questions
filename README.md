@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3536-maximum-product-of-two-digits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
