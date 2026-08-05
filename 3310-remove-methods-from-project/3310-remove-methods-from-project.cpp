@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-void dfs(int i,  vector<vector<int>>&adj,set<int>&seen){
+void dfs(int i,  vector<vector<int>>&adj,unordered_set<int>&seen){
               
              
                seen.insert(i);
@@ -24,7 +24,7 @@ void dfs(int i,  vector<vector<int>>&adj,set<int>&seen){
                           adj[u].push_back(v);
                     }
 
-                    set<int>seen;
+                    unordered_set<int>seen;
                     seen.insert(k);
                     for(auto it:adj[k]){
                             if(!seen.count(it)){
