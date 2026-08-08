@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0357-count-numbers-with-unique-digits) |
