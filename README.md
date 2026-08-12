@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Heap (Priority Queue)
 |  |
