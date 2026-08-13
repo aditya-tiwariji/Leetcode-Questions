@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0198-house-robber) |
