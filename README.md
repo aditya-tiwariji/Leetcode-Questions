@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2751-robot-collisions](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3379-transformed-array) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3612-process-string-with-special-operations-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3612-process-string-with-special-operations-i) |
