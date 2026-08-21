@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1310-xor-queries-of-a-subarray](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1345-jump-game-iv) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1094-car-pooling) |
+| [1310-xor-queries-of-a-subarray](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1310-xor-queries-of-a-subarray) |
 | [2121-intervals-between-identical-elements](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2121-intervals-between-identical-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2615-sum-of-distances) |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1009-complement-of-base-10-integer) |
+| [1310-xor-queries-of-a-subarray](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
