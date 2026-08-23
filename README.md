@@ -673,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0743-network-delay-time) |
@@ -953,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -976,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0547-number-of-provinces](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0743-network-delay-time) |
@@ -1015,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
