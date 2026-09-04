@@ -2,52 +2,85 @@ class Solution {
 public:
 
 
-// Your fun() idea:
-// Decide which string should come first.
-bool fun(string a, string b) {
+string fun(string a, string b) {
 
-    string x = a + b;
-    string y = b + a;
+    if (a == "") return b;
+    if (b == "") return a;
 
-    if (x > y)
-        return true;   // a should come before b
+    int i = 0;
+    int j = 0;
+    int n = a.size();
+    int m = b.size();
 
-    return false;      // b should come before a
+    // Compare a+b and b+a using your character comparison style
+    while (i < n + m && j < n + m) {
+
+        char x, y;
+
+        // Character from a+b
+        if (i < n)
+            x = a[i];
+        else
+            x = b[i - n];
+
+        // Character from b+a
+        if (j < m)
+            y = b[j];
+        else
+            y = a[j - m];
+
+        if (x != y) {
+            if (x > y) {
+                return a + b;
+            }
+            else {
+                return b + a;
+            }
+        }
+
+        i++;
+        j++;
+    }
+
+    return a + b;
 }
+
 
 string largestNumber(vector<int>& nums) {
 
     int n = nums.size();
 
-    // Keep numbers separate
     vector<string> arr;
 
     for (int i = 0; i < n; i++) {
-        arr.push_back(to_string(nums[i]));
-    }
 
-    // Arrange using your fun() comparison
-    for (int i = 0; i < n - 1; i++) {
+        string s = to_string(nums[i]);
 
-        for (int j = 0; j < n - i - 1; j++) {
+        bool inserted = false;
 
-            // If arr[j] should NOT come before arr[j+1]
-            if (!fun(arr[j], arr[j + 1])) {
-                swap(arr[j], arr[j + 1]);
+        // Find correct position for s
+        for (int j = 0; j < arr.size(); j++) {
+
+            // Your fun() tells us which concatenation is larger
+            if (fun(s, arr[j]) == s + arr[j]) {
+                arr.insert(arr.begin() + j, s);
+                inserted = true;
+                break;
             }
+        }
+
+        if (!inserted) {
+            arr.push_back(s);
         }
     }
 
-    // Now merge everything
     string p = "";
 
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < arr.size(); i++) {
         p += arr[i];
     }
 
-    // Handle cases like [0,0]
-    if (p[0] == '0')
-        return "0";
+    if (p[0] == '0') return "0";
 
     return p;
 }
