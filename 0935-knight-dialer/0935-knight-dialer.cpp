@@ -1,46 +1,60 @@
 class Solution {
 public:
-    long long mod=1e9+7;
-    int func(int i, int j, vector<vector<int>>& arr, int n, int steps, vector<vector<vector<int>>>&dp){
-            if(i<0 || j<0 || i>3 || j>2 || (i==3 && (j==0 || j==2))) return 0;
-            if(steps==n) return 1;
-            if(dp[i][j][steps]!=-1) return dp[i][j][steps];
+vector<vector<int>>dir={{-2,-1},{-2,1},{-1,2},{-1,-2},{2,-1},{2,1},{1,2},{1,-2}};
+vector<vector<vector<int>>>dp;
+long long  mod=1e9+7;
 
-            long long m1=func(i+2,j-1,arr,n,steps+1,dp);
-            long long m2=func(i+2,j+1,arr,n,steps+1,dp);
-            long long m3=func(i-2,j-1,arr,n,steps+1,dp);
-            long long m4=func(i-2,j+1,arr,n,steps+1,dp);
-            long long m5=func(i-1,j+2,arr,n,steps+1,dp);
-            long long m6=func(i-1,j-2,arr,n,steps+1,dp);
-            long long m7=func(i+1,j+2,arr,n,steps+1,dp);
-            long long m8=func(i+1,j-2,arr,n,steps+1,dp);
+int  solve(int i,int j,int n,int count,vector<vector<int>>&v){
+          if(count==n){
+              return 1;
+          }
 
-            return dp[i][j][steps]=(m1+m2+m3+m4+m5+m6+m7+m8)%mod;
-    }
+          if(dp[i][j][count]!=-1)return dp[i][j][count];
 
+             long long  cnt=0;
+             for(auto &it: dir){
+                 int ni=i+it[0];
+                 int nj=j+it[1];
+
+                if(ni<0||ni>=4||nj<0||nj>=3||v[ni][nj]==-1)continue;
+
+                cnt=(cnt+solve(ni,nj,n,count+1,v))%mod;
+
+
+             }
+
+             return dp[i][j][count]=cnt%mod;
+}
     int knightDialer(int n) {
         
-        vector<vector<int>>arr(4,vector<int>(3));
-        vector<vector<vector<int>>>dp(4,vector<vector<int>>(3,vector<int>(n+1,-1)));
-        int cnt=1;
-        for(int i=0;i<3;i++){
-            for(int j=0;j<3;j++){
-                arr[i][j]=cnt;
-                cnt++;
-            }
-        }
-        arr[3][0]=-1;
-        arr[3][1]=0;
-        arr[3][2]=-1;
-        int ans=0;
-        for(int i=0;i<4;i++){
-            for(int j=0;j<3;j++){
-                if(!(i==3 && (j==0 || j==2))){
-                    ans=(ans+func(i,j,arr,n,1,dp))%mod;
-                }
-            }
-        }
-        return ans;
 
+           vector<vector<int>>v(4,vector<int>(3,-1));
+
+          int k=1;
+           for(int i=0;i<3;i++){
+             for(int j=0;j<3;j++)
+             {
+                  v[i][j]=k;
+                  k++;
+
+             }
+           }
+          
+            v[3][1]=0;
+          
+          dp.assign(4,vector<vector<int>>(3,vector<int>(5000+1,-1)));
+         int ans=0;
+           for(int i=0;i<3;i++){
+              for(int j=0;j<3;j++){
+                    
+               ans=(ans+solve(i,j,n,1,v))%mod;
+              }
+           }
+           
+         ans=(ans+solve(3,1,n,1,v))%mod;
+
+           return ans%mod;
+                 
+           
     }
 };
