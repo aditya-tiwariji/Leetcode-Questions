@@ -29,12 +29,13 @@ public:
               }
 
               temp=head;
+             Node*newNode=copy[temp];
 
               while(temp){
-                   Node*newNode=copy[temp];
                    newNode->next=copy[temp->next];
                    newNode->random=copy[temp->random];
                    temp=temp->next;
+                   newNode=newNode->next;
               }
 
               return copy[head];
