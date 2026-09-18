@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0217-contains-duplicate) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0357-count-numbers-with-unique-digits](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0455-assign-cookies) |
