@@ -1138,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0455-assign-cookies) |
 ## Sweep Line
 |  |
@@ -1164,4 +1165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
