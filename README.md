@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0312-burst-balloons) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/0647-palindromic-substrings) |
