@@ -8,11 +8,7 @@ public:
 
             while(i<n&&j<n){
                    
-                    // while(i<n&&nums[i]!=0){
-                    //       i++;
-                    // }
-
-                    // if(j<=i)j=i+1;
+               
               
                    while(j<n&&nums[j]==0){  
                       j++;
