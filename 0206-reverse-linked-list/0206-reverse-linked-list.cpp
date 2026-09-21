@@ -10,31 +10,28 @@
  */
 class Solution {
 public:
-ListNode*newHead=nullptr;
-
-ListNode*fun(ListNode*node){
-          if(node->next==nullptr){ 
-            newHead=node;
-            return node;
-          }
-
-          ListNode*newHead=fun(node->next);
-
-          ListNode*temp1=node;
-          ListNode*temp2=node->next;
-
-          temp2->next=temp1;
-          temp1->next=nullptr;
-
-          return newHead;
-
-}
     ListNode* reverseList(ListNode* head) {
-        
-           if(!head)return head;
-           ListNode*ans=fun(head);
+           
+             if(head==NULL||head->next==NULL)return head;
+            ListNode*prev=NULL;
+            ListNode*temp=head;
+            ListNode*temp1=head->next;
+
+            while(temp1->next!=NULL){
+                  
+                   temp->next=prev;
+                   prev=temp;
+                   temp=temp1;
+                   temp1=temp1->next;
+            }
+            
+            temp->next=prev;
+            temp1->next=temp;
+
            
 
-           return ans;
+            return temp1;
+
+
     }
 };
