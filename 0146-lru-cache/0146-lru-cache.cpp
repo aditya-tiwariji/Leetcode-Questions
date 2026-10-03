@@ -1,90 +1,98 @@
 class LRUCache {
-public:
-     
-     struct Node{
-            int key,value;
-            Node*prev;
-            Node*next;
-            Node(int k,int v){
-                 key=k;
-                 value=v;
-                 prev=next=NULL;
-            } 
-     };
+      private:
+      struct Node{
+              Node* prev;
+              Node* next;
+              int key;
+              int value;
 
-     unordered_map<int,Node*>mpp;
-     int capacity;
-     Node*head;
-     Node*tail;
-     
+              Node(int k,int v){
+                  key=k;
+                  value=v;
+                  prev=NULL;
+                  next=NULL;
+              }
 
+      };
 
+      int capacity;
+
+      unordered_map<int,Node*>mpp;
+
+      // dummy node
+      Node*head;
+      Node*tail;
+
+      void addNode(Node*node){
+               node->prev=head;
+               node->next=head->next;
+               head->next->prev=node;
+               head->next=node;
+
+      }
+
+      void deleteNode(Node* node){
+          
+                node->prev->next=node->next;
+                node->next->prev=node->prev;
+      }
+
+   public:
     LRUCache(int capacity) {
-           this->capacity=capacity;
+           
+             this->capacity=capacity;
 
-           head=new Node(-1,-1);
-           tail=new Node(-1,-1);
+             head=new Node(-1,-1);
+             tail=new Node(-1,-1);
 
-           head->next=tail;
-           tail->prev=head;
-
-    }
-
-   void  insertAfterHead(Node*node){
-            Node*curAfterHead=head->next;
-            head->next=node;
-            node->prev=head;
-            node->next=curAfterHead;
-            curAfterHead->prev=node;
-    }
-
-   void  deleteNode(Node*node){
-            
-              Node*prevNode=node->prev;
-              Node*afterNode=node->next;
-
-              prevNode->next=afterNode;
-              afterNode->prev=prevNode;
+             head->next=tail;
+             tail->prev=head;
     }
     
     int get(int key) {
-        
-            if(mpp.count(key)==0)return -1;
+           
+              if(mpp.find(key)==mpp.end())return -1;
 
-            Node*node=mpp[key];
-            deleteNode(node);
-            insertAfterHead(node);
+              Node* node=mpp[key];
+              int val=node->value;
 
-            return node->value;
+             deleteNode(node);
+             addNode(node);
 
-            
+             return val;
     }
     
     void put(int key, int value) {
-        
-              if(mpp.count(key)){
-                     Node*node=mpp[key];
-                     node->value=value;
-                     deleteNode(node);
-                     insertAfterHead(node);
-              }
-              else{
-                  if(mpp.size()<capacity){
-                         Node*node=new Node(key,value);
-                         mpp[key]=node;
-                         insertAfterHead(node);
-                  }
-                  else{
-                      Node*node=tail->prev;
-                      mpp.erase(node->key);
-                      deleteNode(node);
+           
+           if(mpp.find(key)!=mpp.end()){
+                     Node* node=mpp[key];
 
-                      Node*newNode=new Node(key,value);
-                      mpp[key]=newNode;
-                      insertAfterHead(newNode);
-                  }
-              }
-    }
+                     deleteNode(node);
+                    
+                     delete node;
+
+                     mpp.erase(key);
+
+           }
+
+           Node* newNode=new Node(key,value);
+
+           addNode(newNode);
+
+           mpp[key]=newNode;
+
+           if(mpp.size()>capacity){
+                     
+                     Node* lru=tail->prev;
+                     deleteNode(lru);
+                
+
+                     mpp.erase(lru->key);
+
+                          delete lru;
+           }
+
+    }  
 };
 
 /**
