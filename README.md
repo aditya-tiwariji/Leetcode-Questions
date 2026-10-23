@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3660-jump-game-ix) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/aditya-tiwariji/Leetcode-Questions/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Matrix
 |  |
