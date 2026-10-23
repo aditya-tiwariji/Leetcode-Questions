@@ -1,76 +1,49 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
     string minWindow(string s, string t) {
 
-        int n = s.size();
+        if (t.size() > s.size()) return "";
 
-        unordered_map<char,int> mpp;
-        unordered_map<char,int> cpp;
+        unordered_map<char, int> mpp, cpp;
 
-        for(auto it : t)
-            cpp[it]++;
-
-        int i = 0;
-        int j = 0;
-
-        int start = 0;
-        int mini = INT_MAX;
-
-        while(j < n){
-            mpp[s[j]]++;
-
-            bool f = false;
-
-            
-            for(auto &it : cpp){
-                char ch = it.first;
-
-                if(mpp[ch] < cpp[ch]){
-                    f = true;
-                    break;
-                }
-            }
-
-            if(f){
-                j++;
-            }
-            else{
-                // shrink window
-                while(i <= j){
-
-                    bool breakFlag = false;
-
-                    mpp[s[i]]--;
-
-                    for(auto &it : cpp){
-                        char ch = it.first;
-
-                        if(mpp[ch] < cpp[ch]){
-                            breakFlag = true;
-                            break;
-                        }
-                    }
-
-                    if(breakFlag){
-                        if(j - i + 1 < mini){
-                            mini = j - i + 1;
-                            start = i;
-                        }
-
-                        j++;
-                        i++;
-                        break;
-                    }
-
-                    i++;
-                }
-            }
+        for (int i = 0; i < t.size(); i++) {
+            mpp[t[i]]++;
         }
 
-        if(mini == INT_MAX) return "";
-        return s.substr(start, mini);
+        int i = 0, j = 0;
+        int k = 0;
+        int first = 0;
+        int len = INT_MAX;
+
+        while (j < s.size()) {
+
+            cpp[s[j]]++;
+
+            if (mpp.find(s[j]) != mpp.end() &&
+                cpp[s[j]] <= mpp[s[j]]) {
+                k++;
+            }
+
+            while (k == t.size()) {
+
+                if (j - i + 1 < len) {
+                    len = j - i + 1;
+                    first = i;
+                }
+
+                if (mpp.find(s[i]) != mpp.end()) {
+                    if (cpp[s[i]] <= mpp[s[i]]) {
+                        k--;
+                    }
+                    cpp[s[i]]--;
+                }
+
+                i++;
+            }
+
+            j++;
+        }
+
+        return len == INT_MAX ? "" : s.substr(first, len);
     }
 };
